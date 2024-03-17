@@ -11,7 +11,7 @@ Life Saver Connect is a PHP based web project. It is used in emergency cases at 
 
 - SHARAN SAGAR SEERLA - seerlasagar@gmail.com  
 - SHAIK FAZIL - skfazil221@gmail.com 
-- MOHAN KRISHNA SAI MUPPALLA -         
+- MOHAN KRISHNA SAI MUPPALLA - sairajumuppalla@gmail.com        
 - NEERAJ YADAV GOSU - neerajyadavgosu@gmail.com
 
 ## THE PROBLEM IT SOLVES - 
@@ -99,5 +99,14 @@ Life Saver Connect is a PHP based web project. It is used in emergency cases at 
 - HTML (Hypertext Markup Language) and CSS (Cascading Style Sheets): HTML is used for structuring the content of web pages, while CSS is used for styling and layout. These technologies would be used to create the visual design and layout of the Life Saver Connect website.
 - Database ( MySQL): To store user data, blood donation requests, and other information, a database management system MySQL would be used. PHP would interact with the database to retrieve and store information as needed.
 - Apache HTTP Server: Apache HTTP Server, commonly referred to as Apache, is a widely used open-source web server software. It is responsible for serving web pages and handling HTTP requests from clients, such as web browsers. In the context of Life Saver Connect, Apache would be used to host and serve the website's files to users.
+
+#FLOW CHART
+<h3>  </h3>
+<br><b>
    
-  
+ <img src="https://github.com/Sharan07-github/Team-Dragoon/assets/146647144/7ec1e701-6932-4f42-8bf8-4b06c3ce768e">
+<br>
+   <br>
+
+ 
+
