@@ -19,7 +19,7 @@ Life Saver Connect addresses a critical issue in emergency healthcare by bridgin
 
 ## USE CASES -
 
--Emergency Blood Requests: Patients in hospitals can use the platform to quickly request blood donations in emergency situations.
--Blood Bank Notifications: Blood banks receive notifications of blood requests matching their available blood types, enabling them to respond promptly.
+- Emergency Blood Requests: Patients in hospitals can use the platform to quickly request blood donations in emergency situations.
+- Blood Bank Notifications: Blood banks receive notifications of blood requests matching their available blood types, enabling them to respond promptly.
 
 
