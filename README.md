@@ -44,7 +44,7 @@ NEERAJ YADAV GOSU-
 ## DEMO VIDEO -
 - https://youtu.be/yl5j-LIY2Gk
 
-# Installation
+# INSTALLATION -
 
 1. Install XAMPP or WAMPP.
 
@@ -74,5 +74,12 @@ NEERAJ YADAV GOSU-
    Enter Below Credentials to login to the Admin Panel.<br>
    <b> Username = </b> varunsardana004<br>
    <b>Password = </b> 123
+
+# TECHNOLOGIES USED -
+- PHP (Hypertext Preprocessor): PHP is a server-side scripting language commonly used for web development. In Life Saver Connect, PHP would be used to handle server-side operations such as processing blood donation requests, managing user authentication, and interacting with the database.
+- JavaScript: JavaScript is a programming language that enables interactive and dynamic features on websites. In your project, JavaScript would be used for client-side interactions, such as displaying real-time notifications, validating user inputs, and handling asynchronous requests.
+- HTML (Hypertext Markup Language) and CSS (Cascading Style Sheets): HTML is used for structuring the content of web pages, while CSS is used for styling and layout. These technologies would be used to create the visual design and layout of the Life Saver Connect website.
+- Database ( MySQL): To store user data, blood donation requests, and other information, a database management system MySQL would be used. PHP would interact with the database to retrieve and store information as needed.
+- Apache HTTP Server: Apache HTTP Server, commonly referred to as Apache, is a widely used open-source web server software. It is responsible for serving web pages and handling HTTP requests from clients, such as web browsers. In the context of Life Saver Connect, Apache would be used to host and serve the website's files to users.
    
   
