@@ -100,7 +100,7 @@ Life Saver Connect is a PHP based web project. It is used in emergency cases at 
 - Database ( MySQL): To store user data, blood donation requests, and other information, a database management system MySQL would be used. PHP would interact with the database to retrieve and store information as needed.
 - Apache HTTP Server: Apache HTTP Server, commonly referred to as Apache, is a widely used open-source web server software. It is responsible for serving web pages and handling HTTP requests from clients, such as web browsers. In the context of Life Saver Connect, Apache would be used to host and serve the website's files to users.
 
-#FLOW CHART
+## FLOW CHART
 <h3>  </h3>
 <br><b>
    
