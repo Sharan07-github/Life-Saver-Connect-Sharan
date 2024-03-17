@@ -8,10 +8,11 @@
 Life Saver Connect is a PHP based web project. It is used in emergency cases at hospitals for blood. When a patient requires blood , they can request for blood with their blood group in the website . Then a notification goes to nearby blood banks and donors ( common people who use this application) who have the same blood group. Then they can go to the hospital for donating blood . The patient will also be given the contact details of the nearby donors to contact them for blood. So that in the emergency situations we can save people.This project leverages the gap between donors and reciepents, saving countless lives in emergency situations
 
 ## TEAM MEMBER DETAILS-
-SHARAN SAGAR SEERLA - seerlasagar@gmail.com  
-SHAIK FAZIL - skfazil221@gmail.com 
-MOHAN KRISHNA SAI MUPPALLA -         
-NEERAJ YADAV GOSU-
+
+- SHARAN SAGAR SEERLA - seerlasagar@gmail.com  
+- SHAIK FAZIL - skfazil221@gmail.com 
+- MOHAN KRISHNA SAI MUPPALLA -         
+- NEERAJ YADAV GOSU - neerajyadavgosu@gmail.com
 
 ## THE PROBLEM IT SOLVES - 
 
@@ -45,10 +46,20 @@ NEERAJ YADAV GOSU-
 - https://youtu.be/yl5j-LIY2Gk
 
 # IMAGES - 
-
-<h3> User Panel Images </h3>
-<br><b>1. Home Page 
    
+<h3>  </h3>
+<br><b>
+   
+
+   <img src="https://github.com/Sharan07-github/Team-Dragoon/assets/146647144/438b6a5f-c688-446a-a01c-79eddea91ee9">
+   <img src="https://github.com/Sharan07-github/Team-Dragoon/assets/146647144/8c87416b-3b35-4cf9-9e80-b9ea7a006ecc">
+   <img src="https://github.com/Sharan07-github/Team-Dragoon/assets/146647144/fb0b85a3-1566-48b1-8a63-7fdf8838f05e">
+   <img src="https://github.com/Sharan07-github/Team-Dragoon/assets/146647144/c15cc26a-f29e-4317-965a-d511c5d9d29b">
+   <img src="https://github.com/Sharan07-github/Team-Dragoon/assets/146647144/59e957c4-c547-457d-b863-0e46c60f9c89">
+
+   <br>
+   <br>
+
   
 
 # EXACT STEPS TO TEST THE PROJECT -
